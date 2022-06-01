@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap");
 
 :root {
-  --color: #20b2aa;
+/*   --color: #20b2aa; */
+  --color: #02A9BE;
 }
 
 * {
